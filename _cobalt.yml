@@ -1,0 +1,21 @@
+source: blog
+site:
+  title: Josh's Home Page
+  description: "Programming and other misc"
+  base_url: "https://jjpatric.github.io"
+pages:
+  default:
+    layout: default.liquid
+    permalink: /{{parent}}/{{name}}/
+    data:
+      copyright: 2021
+posts:
+  rss: rss.xml
+  dir: blog
+  default:
+    # For simpler drafts
+    published_date: "2021-08-17 01:59:26 -0500"
+    permalink: /blog/{{year}}/{{month}}/{{slug}}/
+    layout: post.liquid
+    data:
+      tags: ~
