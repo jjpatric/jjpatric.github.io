@@ -1,10 +1,7 @@
 ---
-layout: remark.liquid
-format: Raw
-permalink: /{{parent}}/{{year}}/{{month}}/{{slug}}/
+title: "Talks"
 data:
-  venue: Utah Rust
+    tags: ["talks"]
 ---
-class: middle
 
 # Talks
