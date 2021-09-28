@@ -1,7 +1,8 @@
 ---
-title: "Why Rust?"
+title: "Let's do this again, もう一回"
 data:
-    tags: ["programming", "rust"]
+    tags: ["language", "japanese"]
 ---
 
-# RUST 
+# Lets do this again, もう一回
+Testing Japanese Characters
