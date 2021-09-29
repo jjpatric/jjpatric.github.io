@@ -5,24 +5,23 @@ data:
 ---
 
 # One more time
-There is this idea that keeps coming up as I continue my language learning journey. 
+There is this one idea that keeps coming up as I continue my language learning journey. 
 It is this: 
 
 **Your motivation behind learning the language is everything.**
 It will determine how far you go, how long you last, how much you can do. 
 Without the proper motivation your aspirations will fizzle out and die.
-Today I found was questioning myself again on why.
 
-For french my motivation is clear: 
+For french my motivation is practical: 
 - It is the official second language of my country. 
 - I know many people who speak french some of whom are family.
-- knowing french will expand my opportunities immensely.
-- I want to experience french canada.
-- the list goes on.
+- Knowing french will expand my opportunities immensely.
+- I have already spent years studying in school.
 
-However, for Japanese I do not feel as confident in my motivation. 
-If someone were to ask I would say:
-- My sister plans to move there in the future and when I visit her I want to surprise everyone with how well I speak japanese.
+However, for Japanese my motivations are abstract. 
+- I find the culture fascinating.
 - I want to be like in the guy in this video: [White Guy Stuns Entire Supermarket With Flawless Japanese](https://www.youtube.com/watch?v=fMBhj5WGeaI)
 
-I will continue this post later...
+Strangely I find myself more drawn to learn Japanese when given the choice. When I open youtube and there is a mix of French and Japanese content I find myself wanting to always pick the japanese content. It takes effort to choose a french video.
+
+This made me realise that the real motivation behind learning any second language at all is the desire to do something fun, while exposing myself to something new.
