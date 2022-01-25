@@ -8,8 +8,8 @@ data:
 
 GitHub is a wonderful website that allows you to create and edit files directly in the browser.
 
-The inspiration to write a blog post can come at any time so writing a new post from my phone will be very useful.
+The inspiration to write a blog post can come at any time.
 
-This is the first post I have made entirely from my phone.
+Not that I will ever be inspired to write a blog post.
 
-Nice.
+U_U
