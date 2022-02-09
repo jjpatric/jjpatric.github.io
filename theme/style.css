@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffcaca;
+    color: #000000;
+    background-image: linear-gradient(to right, red, green)
 }
